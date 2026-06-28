@@ -42,12 +42,6 @@ A Machine Learning web application built using **Python**, **Streamlit**, and **
 
 ## 🚀 Installation
 
-Clone the repository
-
-```bash
-git clone https://github.com/YourUsername/Student-Result-Prediction-System.git
-```
-
 Install dependencies
 
 ```bash
