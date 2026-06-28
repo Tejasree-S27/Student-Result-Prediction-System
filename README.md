@@ -4,9 +4,6 @@
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 
-## Live Demo
-
-https://student-result-prediction.streamlit.app
 
 # 🎓 Student Result Prediction System
 
